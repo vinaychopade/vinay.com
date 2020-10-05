@@ -1,2 +1,1 @@
-# vinay.com
-kay aste be
+# homepage
