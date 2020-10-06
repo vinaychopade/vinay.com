@@ -1,0 +1,14 @@
+    
+.slideshow{
+margin: 0 auto;
+padding-top:50px; 
+height:700px;
+background: skyblue;
+box-sizing:border-box;}
+.content {
+margin:auto;
+width:190px;
+perspective:1000px;
+positive:relative;
+padding-top:80px;
+}
